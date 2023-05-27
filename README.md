@@ -56,12 +56,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<dir>
+<div>
     <div style="text-align: center;">
-        <p>
+        <p align="left">
             <a>
                 <img height="180em"
                     src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrandonCasT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+        </p>
+        <p align="right">
+            <a>
                 <img height="180em"
                     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrandonCasT&layout=compact&langs_count=8&theme=algolia" />
             </a>
@@ -73,7 +76,7 @@
                 src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonCasT&layout=compact&langs_count=8&theme=algolia" />
         </p>
     </div>
-</dir>
+</div>
 
 <!--<p align="center">
 <a href="https://github.com/AVS1508">

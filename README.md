@@ -72,13 +72,7 @@
 
 ### ☣ Projects
 
-<div>
-    <!--<a href="https://github.com/BrandonCasT/ClassificationNaturalDisasterTweets">--->
-      <img height="167em" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonCasT&repo=ClassificationNaturalDisasterTweets&theme=radical" alt="Readme Card">
-<!--</a>--->
-</div>
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCasT&repo=ClassificationNaturalDisasterTweets&theme=radical)](https://github.com/BrandonCasT/ClassificationNaturalDisasterTweets)--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCasT&repo=ClassificationNaturalDisasterTweets&theme=radical)](https://github.com/BrandonCasT/ClassificationNaturalDisasterTweets)
 
 <hr>
 

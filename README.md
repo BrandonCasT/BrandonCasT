@@ -57,13 +57,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div>
-    <img height="144em"
+    <img height="163em"
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrandonCasT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
         style="float: left;">
-    <img height="144em"
+    <img height="163em"
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrandonCasT&layout=compact&langs_count=8&theme=algolia"
         style="display: block; margin: 0 auto;">
-    <img height="144em"
+    <img height="163em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonCasT&layout=compact&langs_count=8&theme=algolia"
         style="display: block; margin: 0 auto;">
 </div>

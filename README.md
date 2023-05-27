@@ -55,7 +55,7 @@
 <hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<!--
 <div>
     <img height="167em"
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrandonCasT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
@@ -65,8 +65,17 @@
         style="display: block; margin: 0 auto;">
     <img height="167em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonCasT&layout=compact&langs_count=8&theme=algolia"
-        style="display: block; margin: 0 auto;">
-</div>
+        style="float: left;">
+    <img height="167em"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrandonCasT&theme=algolia"
+        style="float: right;">
+</div>--->
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrandonCasT&layout=compact&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrandonCasT&layout=compact&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrandonCasT&layout=compact&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrandonCasT&layout=compact&theme=blue_green&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrandonCasT&layout=compact&theme=blue_green)
+
 
 <hr>
 
